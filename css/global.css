@@ -3,3 +3,19 @@
 .pager li.pager-previous a {
   width: 70px
 }
+
+section#block-block-1 {
+  background: #E4EDF7;
+}
+
+h6.site-slogan {
+  padding-bottom: 24px;
+}
+
+/* The select below centers the swag images in the sidebar, per:
+   http://www.w3.org/Style/Examples/007/center.en.html */
+aside#region-sidebar-first div.block-without-title img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
