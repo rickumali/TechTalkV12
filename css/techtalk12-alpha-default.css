@@ -1,1 +1,11 @@
-/* This file will hold styles for all layouts using the alpha grid (i.e. not the mobile layout). */
+/* This file will hold styles for all layouts using the alpha grid (i.e. not
+ * the mobile layout). */
+
+/* See global.css */
+section#block-tagadelic-2 {
+  display: block;
+}
+
+section#block-views-tracker-block-1 {
+  display: block;
+}

@@ -28,3 +28,16 @@ img {
     height:auto;
     display:block;
 }
+
+/* Reading http://drupal.org/node/1622454, this is probably the
+ * easiest way to hide the tags block when you're on a mobile
+ * device. Sweeps it from view, but the device likely still downloads 
+ * it.
+ */
+section#block-tagadelic-2 {
+  display: none;
+}
+
+section#block-views-tracker-block-1 {
+  display: none;
+}
