@@ -41,3 +41,20 @@ section#block-tagadelic-2 {
 section#block-views-tracker-block-1 {
   display: none;
 }
+
+/* This adds spacing to the 'tags' link area. */
+div.field-name-taxonomy-vocabulary-2 {
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+/*
+ * This adds spacing between the tags. NOTE: In Drupal, these are 
+ * configured to display 'inline'.
+ */
+div.field-name-taxonomy-vocabulary-2 div.field-items div.field-item {
+  padding-right: 8px;
+}
+
+h2.node-title {
+  margin-bottom: 5px;
+}
