@@ -1,11 +1,2 @@
 /* This file will hold styles that are loaded using the same media query as the
  * wide grid. */
-
-/* See global.css */
-section#block-tagadelic-2 {
-  display: block;
-}
-
-section#block-views-tracker-block-1 {
-  display: block;
-}

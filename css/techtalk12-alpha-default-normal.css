@@ -3,12 +3,3 @@
 /* If you are using the default media queries provided by Omega, these styles
  * will also apply to the widescreen layout unless they are overridden by the
  * widescreen styles. */
-
-/* See global.css */
-section#block-tagadelic-2 {
-  display: block;
-}
-
-section#block-views-tracker-block-1 {
-  display: block;
-}
