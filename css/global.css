@@ -60,3 +60,11 @@ div.field-name-taxonomy-vocabulary-2 div.field-items div.field-item {
 h2.node-title {
   margin-bottom: 5px;
 }
+
+/*
+ * If you're not on the front page, and you're a story, then 
+ * do NOT display the sidebar region in the mobile-first layout.
+ */
+body.not-front div.region-sidebar-first-inner {
+  display: none;
+}

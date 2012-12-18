@@ -9,3 +9,11 @@ section#block-tagadelic-2 {
 section#block-views-tracker-block-1 {
   display: block;
 }
+
+/*
+ * See global.css.
+ */
+body.not-front div.region-sidebar-first-inner {
+  display: block;
+}
+
