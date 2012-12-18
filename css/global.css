@@ -86,3 +86,11 @@ body.not-front div.region-sidebar-first-inner {
 a:link, a:visited {
   text-decoration: none;
 }
+
+/*
+ * Sans-serif for all header-tag fonts.
+ */
+h1, h2, h3, h4, h5, h6 {
+  letter-spacing: -0.05em;
+  font-family: sans-serif;
+}
