@@ -22,8 +22,10 @@ aside#region-sidebar-first div.block-without-title img {
 
 /* Trying to make my images 'responsive'. Used: 
    http://stackoverflow.com/questions/11736363/responsive-images-with-css
+
+   NOTE: I only do this for the 'front' page.
  */
-img {
+body.front img {
     max-width:100% !important;
     height:auto;
     display:block;
