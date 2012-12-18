@@ -78,3 +78,11 @@ h2.node-title {
 body.not-front div.region-sidebar-first-inner {
   display: none;
 }
+
+/* Removing underlines from all anchor tags.
+ *
+ * http://stackoverflow.com/questions/2041388/how-to-remove-the-underline-for-anchorslinks
+ */
+a:link, a:visited {
+  text-decoration: none;
+}
