@@ -32,9 +32,9 @@ body.front img {
 }
 
 /* Reading http://drupal.org/node/1622454, this is probably the
- * easiest way to hide the tags block when you're on a mobile
- * device. Sweeps it from view, but the device likely still downloads 
- * it.
+ * easiest way to hide the tags and tracker (past posts) block when you're on a
+ * mobile device. This CSS sweeps it from view, but the device likely still
+ * downloads the raw HTML.
  */
 section#block-tagadelic-2 {
   display: none;
