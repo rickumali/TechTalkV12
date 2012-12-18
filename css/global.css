@@ -44,6 +44,13 @@ section#block-views-tracker-block-1 {
   display: none;
 }
 
+/* This adds a bit of margin to the first block after the tags
+ * and tracker (past posts) block.
+ */
+div.block-3 {
+  margin-top: 10px;
+}
+
 /* This adds spacing to the 'tags' link area. */
 div.field-name-taxonomy-vocabulary-2 {
   margin-top: 5px;
