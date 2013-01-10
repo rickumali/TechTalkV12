@@ -3,6 +3,11 @@
 /* This also can include ANY global CSS that applies site-wide. Unless
  * overwritten by a more specific style rule, CSS declarations in global.css
  * will apply site-wide. */
+.branding-data {
+  background: lightgray;
+  margin-bottom: 7px;
+}
+
 .pager li.pager-previous a {
   width: 70px
 }
